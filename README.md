@@ -10,7 +10,7 @@ As a start, please put your information about who you are, what languages and pr
 
 * <a href='members/kevin-ball.md'>Kevin Ball</a>
 * <a href='members/andy-cochran.md'>Andy Cochran</a>
-* <a href='members/andy-cochran.md'>Jeremy Englert</a>
+* <a href='members/jeremy-englert.md'>Jeremy Englert</a>
 * <a href='members/colin-marshall.md'>Colin Marshall</a>
 * <a href='members/brett-mason.md'>Brett Mason</a>
 * <a href='members/marius-olbertz.md'>Marius Olbertz</a>
