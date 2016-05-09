@@ -14,3 +14,4 @@ As a start, please put your information about who you are, what languages and pr
 * <a href='members/colin-marshall.md'>Colin Marshall</a>
 * <a href='members/brett-mason.md'>Brett Mason</a>
 * <a href='members/marius-olbertz.md'>Marius Olbertz</a>
+* <a href='members/abdullah-salem.md'>Abdullah Salem</a>
