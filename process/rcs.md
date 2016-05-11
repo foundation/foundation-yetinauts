@@ -28,3 +28,14 @@ Following we want a changelog that is granular at the level of PRs, broken up by
 At the end of the changelog, if there are templates updates, include those in a 'Templates' section.
 
 Finally, a link to the entire commit history.
+
+## QA Process
+
+* Claim your device/browser combo in the QA sheet.
+* Check out RC branch
+* Run `npm start`
+* Go through the list of components in the QA sheet under 'DOCS TESTS', testing all of the examples on the docs page for that component.
+* Stop your node server and start the visual tests with `npm run test:visual`
+* Go through the visual tests, checking each one.  Visual tests should include the expected behavior within the test, if not or things are unclear ask in yetinauts channel and we should update the test.
+
+Throughout, on the QA sheet mark green for working as expected, yellow for working but slightly buggy, and red for broken to the point of unusability.  Some items will not be applicable for some browsers or devices, so feel free to mark those as grey with NA.  When something is buggy or broken please add a comment/note on that cell explaining the issue.
