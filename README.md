@@ -16,6 +16,7 @@ As a start, please put your information about who you are, what languages and pr
 * <a href='members/marius-olbertz.md'>Marius Olbertz</a>
 * <a href='members/abdullah-salem.md'>Abdullah Salem</a>
 * <a href='members/corey-snyder.md'>Corey Snyder</a>
+* <a href='members/jens-koehler.md'>Jens Köhler</a>
 
 ## Process Info
 
