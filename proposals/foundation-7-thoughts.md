@@ -20,7 +20,7 @@
 
  
 
-## Component architecture and extensibility
+##Component architecture and extensibility
 
 
  
