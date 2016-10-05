@@ -18,7 +18,23 @@ Left To Do:
 1. Catch up on PRs
 2. QA For Release
 
-## 6.2.5: RC 11/17, Full Release 12/1 (tentative)
+## 6.3: RC 11/24, Full Release 12/8(tentative)
+**Narrative:** Expand the usability and options of tabs and accordions, especially on mobile and keyboard devices.
+
+**Agenda:**
+
+1. Tabs Deep Linking (+ unit testing)
+2. Accordion deep linking (+ unit testing) 
+3. Responsive accordion (+ unit testing) 
+4. Cards (+ unit testing)
+5. Drilldown responsive heights (+ unit testing)
+6. Keyboard and other ARIA improvements
+7. (optional) Vertical Rhythm Mode
+8. Joyride
+9. QA For Release
+
+
+## 6.3.1: RC 1/19, Full Release 2/2 (tentative)
 **Narrative:**  Additional functionality and bug fixes for the most commonly used Javascript components.
 
 **Agenda:**
@@ -30,19 +46,8 @@ Left To Do:
 5. Fix template issues 
 6. QA For Release
 
-## 6.3: RC 1/19, Full Release 2/2(tentative)
-**Narrative:** Expand the usability and options of tabs and accordions, especially on mobile.
 
-**Agenda:**
-
-1. Tabs Deep Linking (+ unit testing)
-2. Accordion deep linking (+ unit testing) 
-3. Responsive accordion (+ unit testing) 
-4. Cards (+ unit testing)
-4. Joyride
-5. QA For Release
-
-## 6.3.1: Tentative Date: Feb/March
+## 6.3.2: Tentative Date: Feb/March
 **Narrative:** Unifying lifecycle and event handling across all javascript plugins
 
 **Agenda:**
