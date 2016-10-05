@@ -79,7 +79,7 @@ Left To Do:
 
 **The future:  Foundation Everywhere**
 
-We don’t think Foundation should pick a javascript framework, rather it should be accessible in every framework.
+We don’t think Foundation should pick a javascript framework, rather it should be accessible in every framework.  This is learning from challenges and mistakes made while making Foundation for Apps.  We believe we should be supporting common Apps use cases but not "picking a winner" in terms of JavaScript framework. Instead we should work with the community to achieve high quality integrations in every framework.
 
 1. Angular 1 -- Exists
 2. React -- Exists
@@ -95,3 +95,4 @@ We don’t think Foundation should pick a javascript framework, rather it should
 3. CSS Grid - Not sure what the timeline is on this but we should target this, perhaps similar to flexbox mode?
 4. Styleguides - We already include some styleguide stuff in the template, but is there more we can do here?
 5. Themes - Enabling better 'Out of the box' use for non-designers
+6. Tooling to enable more interesting things with SVGs. Ideas include a way to auto-inline to make inner elements accessible to CSS, and some common effects (fills/borders/etc tied in with your pallete, etc)
