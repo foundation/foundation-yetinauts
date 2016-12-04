@@ -3,8 +3,7 @@
 This is to become a set of yetinaut guidelines, insider info, etc.
 
 ## New Members
-As a start, please put your information about who you are, what languages and problems you are most comfortable in, and what gets you excited about working on Foundation into a file named your-name.md in the `members` directory, and then add a link within this Readme.
-
+As a start, please put your information about who you are, what languages and problems you are most comfortable in, and what gets you excited about working on Foundation into a file named your-name.md in the `members` directory, then add a link within this Readme. Precise your main abilities here to allow others members to easily call for help in an issue or pull request.
 
 ## Active Yetinauts
 
@@ -17,7 +16,7 @@ As a start, please put your information about who you are, what languages and pr
 * <a href='members/abdullah-salem.md'>Abdullah Salem</a>
 * <a href='members/corey-snyder.md'>Corey Snyder</a>
 * <a href='members/jens-koehler.md'>Jens Köhler</a>
-* <a href='members/nicolas-coden.md'>Nicolas Coden</a>
+* <a href='members/nicolas-coden.md'>Nicolas Coden</a> (CSS, Sass guidelines)
 
 ## Process Info
 
