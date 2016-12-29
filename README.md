@@ -21,3 +21,4 @@ As a start, please put your information about who you are, what languages and pr
 ## Process Info
 
 * <a href='process/rcs.md'>RC Process and Checklist</a>
+* <a href='process/new-yetinauts.md'>New Yetinauts</a>
